@@ -1,8 +1,4 @@
-# React + Vite
+# Chat Tuah FrontEnd 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The front end interface for Chat Tuah the Private ChatApp. Developed by 2ºCEB students Marcos Cabrerra, Gonzalo de la Lastra and Miguel Mascaró 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
